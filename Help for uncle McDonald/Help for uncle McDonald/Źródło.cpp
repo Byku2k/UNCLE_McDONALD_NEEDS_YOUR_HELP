@@ -61,5 +61,6 @@ int main()
 	count_a_b(count);
 	maximum_area(area);
 
+	system("pause");
 	return 0;
 }
